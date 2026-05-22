@@ -9,7 +9,7 @@ pip install requests`)  then download and run the script (basic.py)
 ## Setting up the Tor Finder
 
 > [!NOTE]
-> Setting up the Tor Finder locally is only recommended if you know what you're doing. If not, you can run it on Google Colab [here](https://colab.research.google.com/drive/1rL5MrrAqzQZ6QyOl8SD0NjJrcXLmtWj0#scrollTo=k-yn31Bv2Dym) without needing to configure anything yourself.
+> Setting up the Tor Finder locally is only recommended if you know what you're doing. If not, you can run it on Google Colab [here](https://colab.research.google.com/drive/1rL5MrrAqzQZ6QyOl8SD0NjJrcXLmtWj0#scrollTo=k-yn31Bv2Dym) without needing to configure anything yourself. Using the basic finder is not recommended because of Gimkit rate limits.
 
 ### 1. Install Tor
 First, install Tor on your machine. A handy installation guide for Windows, macOS, and Linux can be found [here](https://gist.github.com/lukechilds/0be1d56ecd28092822e4fa750b5945c0).
